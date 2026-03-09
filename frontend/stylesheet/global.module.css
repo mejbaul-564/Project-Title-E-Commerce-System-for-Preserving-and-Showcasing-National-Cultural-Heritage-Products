@@ -1,0 +1,43 @@
+/* custom style */
+.subject_card {
+  background-color: #283b5b;
+  padding: 8px 10px 8px 10px;
+  width: 250px;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-size: 22px;
+}
+
+.subject_card:hover {
+  background-color: #b3c4e1;
+  color: black;
+  font-weight: 700;
+  transition: 200ms;
+  font-size: 23px;
+  border: 1px solid #283b5b;
+}
+.tri_equal {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  font-size: 50px;
+}
+.main {
+  /* background-color: #1e293b; */
+
+  margin: 30px;
+}
+.border12 {
+  border: 1px solid #283b5b;
+  /* border-radius: 10px; */
+}
+.stt1 {
+  background-color: #007741;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+.stt2 {
+}

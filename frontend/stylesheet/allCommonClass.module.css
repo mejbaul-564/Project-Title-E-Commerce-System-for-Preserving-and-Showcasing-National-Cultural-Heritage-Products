@@ -1,0 +1,13 @@
+.allCommonClass_head {
+  background-color: #005f61;
+  text-align: center;
+  padding: 10px;
+  font-size: 30px;
+  color: white;
+  margin: 10px 0px 10px 0px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+.allCommonClass_component_area {
+  margin: 30px;
+}

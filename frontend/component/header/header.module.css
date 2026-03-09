@@ -1,0 +1,8 @@
+.header {
+  background-color: #283b5b;
+}
+.search_bar {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  width: 550px;
+}
